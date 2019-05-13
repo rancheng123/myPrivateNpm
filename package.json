@@ -1,0 +1,19 @@
+{
+  "name": "@mxj-zm-fe/myprivatenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rancheng123/myPrivateNpm.git"
+  },
+  "author": "rancheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rancheng123/myPrivateNpm/issues"
+  },
+  "homepage": "https://github.com/rancheng123/myPrivateNpm#readme"
+}
